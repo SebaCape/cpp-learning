@@ -1,4 +1,4 @@
-//This uses an operator
+//This uses an operator.
 
 #include <iostream>
 using namespace std;
