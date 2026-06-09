@@ -13,3 +13,5 @@ int main(int argc, char *argv[])
 
     return 0;
 }
+
+//NOTE: Numeric command line args can be passed with <cstdlib>.
