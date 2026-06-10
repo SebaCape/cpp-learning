@@ -26,5 +26,6 @@ int main()
 
 int negate(const int *val)
 {
+    //If we were to prepend *val = -*val in this line, the program would not work since the pointer is const
     return -*val;
 }
