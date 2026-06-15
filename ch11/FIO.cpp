@@ -19,7 +19,7 @@ int main()
         return -1;
     }
 
-    //Write data to our file (use \n for non critical I/O.)
+    //Write data to our file (use \n for non critical output)
     file << 10 << " " << 123.23 << "$\n";
     file << "This is a short text file.";
 
